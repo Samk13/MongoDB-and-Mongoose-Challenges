@@ -1,6 +1,6 @@
 FCC Mongo & Mongoose Challenges
 ===============================
 
-[Introduction to the MongoDB](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose)
+[Introduction to the MongoDB](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose){:target="_blank"}
 
 ==============
